@@ -26,7 +26,7 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "id": "/?v=0.0.1",
+  "id": "/",
   "lang": "de-DE",
   "orientation": "any",
   "description": "Eine Freie und Quelloffene Wetter-App, basierend auf der Open-Meteo API."
